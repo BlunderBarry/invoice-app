@@ -6,4 +6,5 @@ Day to day of what I do to create a fullstack application.
 - Spring-boot
 - react-router
 - tailwind
-- vscode 
+- vscode
+- postgresql
